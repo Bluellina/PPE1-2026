@@ -1,0 +1,24 @@
+mkdir Exercices
+cd Exercices
+touch pipelines.txt
+kate pipelines.txt
+cd
+cd Exercice1
+cd ann
+cd 2016
+ls | wc -l
+cd ..
+cd 2017
+ls | wc -l
+cd ..
+cd 2018
+ls | wc -l
+cd ..
+cd ProjetEncadré-2026
+cd PPE1-2026
+touch comptes.txt
+kate comptes.txt
+git add comptes.txt
+git commit -m "compte annotation"
+git add pipelines.txt
+git commit -m "pipelines"
