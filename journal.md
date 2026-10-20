@@ -1,3 +1,6 @@
+blabla
+blablablabla
+biscuit
 # Journal de bord du projet encadré
 
 ## 04/10/2026
@@ -21,3 +24,8 @@
 ## 20/10/2026
 
 ### Fiche d'exercice "more exercices"
+
+Cette ligne doit rester après correction.
+
+- Pour repérer l'identifiant SHA j'ai utilisé git log.
+- Pour défaire le commit j'ai utilisé git reset
