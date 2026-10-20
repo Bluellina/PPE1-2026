@@ -18,3 +18,6 @@
 - Je n'ai pas bein compris la commande ls | wc -l
 - Je n'ai pas du tout compris la fiche à partir du moment ou on parlait de locations, je n'ai pas pu continuer après cette question
 
+## 20/10/2026
+
+### Fiche d'exercice "more exercices"
